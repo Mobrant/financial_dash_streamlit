@@ -6,3 +6,4 @@ plotly
 datetime
 google-cloud-bigquery
 st-annotated-text
+db-dtypes
