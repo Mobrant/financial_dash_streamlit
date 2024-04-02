@@ -5,3 +5,4 @@ yfinance
 plotly
 datetime
 google-cloud-bigquery
+st-annotated-text
